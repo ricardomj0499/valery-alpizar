@@ -36,7 +36,7 @@
 
 .botones {
     margin: 25px auto;
-    width: 30%;
+    width: 80%;
 }
 
 .boton{
@@ -144,4 +144,52 @@ button:disabled {
   color: #DDDDDD;
   cursor: not-allowed;
   opacity: 1;
+}
+
+
+.contenedor1 {
+    display: grid;
+  grid-template-columns: auto ;
+  justify-content: center;
+  align-items: center;
+  padding: 10px ;
+}
+
+.contenedor {
+    display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px ;
+}
+
+
+.contenedor3 {
+    display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px ;
+}
+
+.contenedor4 {
+    display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px ;
+}
+
+.contenedor4-seguido {
+    display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 1px;
+  margin: 5px 5px;
+}
+
+img{
+    max-width: 350px;
+    max-height: 350px;
 }
