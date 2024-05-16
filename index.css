@@ -91,8 +91,8 @@ p{
   margin: 0 20px;
 }
 .inner-div img {
-  width: 100px; /* adjust size as needed */
-  height: 100px; /* adjust size as needed */
+  width: 200px; /* adjust size as needed */
+  height: 200px; /* adjust size as needed */
   display: block;
   margin: 0 auto;
 }
@@ -198,6 +198,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
 }
 
 /* Aquí puedes insertar los estilos para los botones */
