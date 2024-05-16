@@ -177,13 +177,18 @@ button:disabled {
   margin: 5px 5px;
 }
 
+
+
 img{
     max-width: 350px;
     max-height: 350px;
 }
 
 /* Tu CSS existente */
-
+#tarro{
+  width: 300;
+  height: 300;
+}
 .botones {
     margin: 25px auto;
     width: 80%;
